@@ -50,7 +50,7 @@
   "dependencies": {
     "@uswds/uswds": "^3.8.2",
     "csv-parse": "^5.6.0",
-    "decap-cms": "^3.10.0",
+    "decap-cms": "^3.17.3",
     "webpack": "^5.104.1"
   }
 }
